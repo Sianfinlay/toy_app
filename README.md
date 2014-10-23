@@ -1,5 +1,6 @@
-# README for toy app 
-## Chapter two 
+# Chapter two 
+## README for toy app 
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
