@@ -18,5 +18,3 @@ Things cover:
 * Create microposts; add, edit, delete and character limit
 
 * Deployed to Heroku, with database migrated with rake
-
-<tt>rake doc:app</tt>.
