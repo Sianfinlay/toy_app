@@ -1,30 +1,22 @@
 # Chapter two 
 ## README for toy app 
 
+__URL :__ [floating-mesa-3283](https://floating-mesa-3283.herokuapp.com/)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Things cover:
 
-Things you may want to cover:
+* Introduction to Scaffolding automatically creates code to model data and interact with it through the web
 
-* Ruby version
+* Scaffolding is good for getting started quickly but bad for understanding
 
-* System dependencies
+* Rails uses the Model-View_Controller pattern 
 
-* Configuration
+* Rails data validations
 
-* Database creation
+* Create users; add, edit, delete
 
-* Database initialization
+* Create microposts; add, edit, delete and character limit
 
-* How to run the test suite
+* Deployed to Heroku, with database migrated with rake
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
